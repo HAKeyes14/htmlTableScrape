@@ -1,0 +1,1492 @@
+{
+  "aircraft": [
+    { "IATA": "100", "ICAO": "F100", "Manufacturer/Type": "Fokker 100" },
+    { "IATA": "141", "ICAO": "B461", "Manufacturer/Type": "BAe 146-100 Pax" },
+    { "IATA": "142", "ICAO": "B462", "Manufacturer/Type": "BAe 146-200 Pax" },
+    { "IATA": "143", "ICAO": "B463", "Manufacturer/Type": "BAe 146-300 Pax" },
+    {
+      "IATA": "146",
+      "ICAO": "",
+      "Manufacturer/Type": "BAe 146 all pax models"
+    },
+    {
+      "IATA": "14F",
+      "ICAO": "",
+      "Manufacturer/Type": "BAe 146 Freighter (-100/200/300QT &amp; QC)"
+    },
+    {
+      "IATA": "14X",
+      "ICAO": "B461",
+      "Manufacturer/Type": "BAe 146 Freighter (-100QT &amp; QC)"
+    },
+    {
+      "IATA": "14Y",
+      "ICAO": "B462",
+      "Manufacturer/Type": "BAe 146 Freighter (-200QT &amp; QC)"
+    },
+    {
+      "IATA": "14Z",
+      "ICAO": "B463",
+      "Manufacturer/Type": "BAe 146 Freighter (-200QT &amp; QC)"
+    },
+    {
+      "IATA": "310",
+      "ICAO": "A310",
+      "Manufacturer/Type": "Airbus A310 all pax models"
+    },
+    {
+      "IATA": "312",
+      "ICAO": "A310",
+      "Manufacturer/Type": "Airbus A310-200 pax"
+    },
+    {
+      "IATA": "313",
+      "ICAO": "A310",
+      "Manufacturer/Type": "Airbus A310-300 pax"
+    },
+    { "IATA": "318", "ICAO": "A318", "Manufacturer/Type": "Airbus A318" },
+    { "IATA": "319", "ICAO": "A319", "Manufacturer/Type": "Airbus A319" },
+    {
+      "IATA": "31F",
+      "ICAO": "A310",
+      "Manufacturer/Type": "Airbus A310 Freighter"
+    },
+    {
+      "IATA": "31X",
+      "ICAO": "A310",
+      "Manufacturer/Type": "Airbus A310-200 Freighter"
+    },
+    {
+      "IATA": "31Y",
+      "ICAO": "A310",
+      "Manufacturer/Type": "Airbus A310-300 Freighter"
+    },
+    {
+      "IATA": "320",
+      "ICAO": "A320",
+      "Manufacturer/Type": "Airbus A320-100/200"
+    },
+    {
+      "IATA": "321",
+      "ICAO": "A321",
+      "Manufacturer/Type": "Airbus A321-100/200"
+    },
+    {
+      "IATA": "32S",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Airbus A318/319/320/321"
+    },
+    {
+      "IATA": "330",
+      "ICAO": "A330",
+      "Manufacturer/Type": "Airbus A330 all models"
+    },
+    { "IATA": "332", "ICAO": "A332", "Manufacturer/Type": "Airbus A330-200" },
+    { "IATA": "333", "ICAO": "A333", "Manufacturer/Type": "Airbus A330-300" },
+    {
+      "IATA": "33F",
+      "ICAO": "A332",
+      "Manufacturer/Type": "Airbus A330 Freighter"
+    },
+    {
+      "IATA": "33X",
+      "ICAO": "A332",
+      "Manufacturer/Type": "Airbus A330-200 Freighter"
+    },
+    {
+      "IATA": "340",
+      "ICAO": "A340",
+      "Manufacturer/Type": "Airbus A340 all models"
+    },
+    { "IATA": "342", "ICAO": "A342", "Manufacturer/Type": "Airbus A340-200" },
+    { "IATA": "343", "ICAO": "A343", "Manufacturer/Type": "Airbus A340-300" },
+    { "IATA": "345", "ICAO": "A345", "Manufacturer/Type": "Airbus A340-500" },
+    { "IATA": "346", "ICAO": "A346", "Manufacturer/Type": "Airbus A340-600" },
+    { "IATA": "351", "ICAO": "A35K", "Manufacturer/Type": "Airbus A350-1000" },
+    { "IATA": "359", "ICAO": "A359", "Manufacturer/Type": "Airbus A350-900" },
+    { "IATA": "380", "ICAO": "A388", "Manufacturer/Type": "Airbus A380 pax" },
+    { "IATA": "38F", "ICAO": "", "Manufacturer/Type": "Airbus A380 Freighter" },
+    {
+      "IATA": "703",
+      "ICAO": "B703",
+      "Manufacturer/Type": "Boeing 707-300 pax"
+    },
+    {
+      "IATA": "707",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 707/720 all pax models"
+    },
+    {
+      "IATA": "70F",
+      "ICAO": "B703",
+      "Manufacturer/Type": "Boeing 707 Freighter"
+    },
+    { "IATA": "70M", "ICAO": "B703", "Manufacturer/Type": "Boeing 707 Combi" },
+    { "IATA": "717", "ICAO": "B712", "Manufacturer/Type": "Boeing 717" },
+    {
+      "IATA": "721",
+      "ICAO": "B721",
+      "Manufacturer/Type": "Boeing 727-100 pax"
+    },
+    {
+      "IATA": "722",
+      "ICAO": "B722",
+      "Manufacturer/Type": "Boeing 727-200 pax"
+    },
+    {
+      "IATA": "727",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 727 all pax models"
+    },
+    {
+      "IATA": "72B",
+      "ICAO": "B721",
+      "Manufacturer/Type": "Boeing 727-100 Mixed Configuration"
+    },
+    {
+      "IATA": "72C",
+      "ICAO": "B722",
+      "Manufacturer/Type": "Boeing 727-200 Mixed Configuration"
+    },
+    {
+      "IATA": "72F",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 727 Freighter (-100/200)"
+    },
+    { "IATA": "72M", "ICAO": "n/a", "Manufacturer/Type": "Boeing 727 Combi" },
+    {
+      "IATA": "72S",
+      "ICAO": "B722",
+      "Manufacturer/Type": "Boeing 727-200 Advanced pax"
+    },
+    {
+      "IATA": "72W",
+      "ICAO": "B721",
+      "Manufacturer/Type": "Boeing 727-200 (winglets) pax"
+    },
+    {
+      "IATA": "72X",
+      "ICAO": "B721",
+      "Manufacturer/Type": "Boeing 727-100 Freighter"
+    },
+    {
+      "IATA": "72Y",
+      "ICAO": "B722",
+      "Manufacturer/Type": "Boeing 727-200 Freighter"
+    },
+    {
+      "IATA": "731",
+      "ICAO": "B731",
+      "Manufacturer/Type": "Boeing 737-100 pax"
+    },
+    {
+      "IATA": "732",
+      "ICAO": "B732",
+      "Manufacturer/Type": "Boeing 737-200 pax"
+    },
+    {
+      "IATA": "733",
+      "ICAO": "B733",
+      "Manufacturer/Type": "Boeing 737-300 pax"
+    },
+    {
+      "IATA": "734",
+      "ICAO": "B734",
+      "Manufacturer/Type": "Boeing 737-400 pax"
+    },
+    {
+      "IATA": "735",
+      "ICAO": "B735",
+      "Manufacturer/Type": "Boeing 737-500 pax"
+    },
+    {
+      "IATA": "736",
+      "ICAO": "B736",
+      "Manufacturer/Type": "Boeing 737-600 pax"
+    },
+    {
+      "IATA": "737",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 737 all pax models"
+    },
+    {
+      "IATA": "738",
+      "ICAO": "B738",
+      "Manufacturer/Type": "Boeing 737-800 pax"
+    },
+    {
+      "IATA": "739",
+      "ICAO": "B739",
+      "Manufacturer/Type": "Boeing 737-900 pax"
+    },
+    {
+      "IATA": "73C",
+      "ICAO": "B733",
+      "Manufacturer/Type": "Boeing 737-300 (winglets) pax"
+    },
+    {
+      "IATA": "73E",
+      "ICAO": "B735",
+      "Manufacturer/Type": "Boeing 737-500 (winglets)pax"
+    },
+    {
+      "IATA": "73F",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 737 all Freighter models"
+    },
+    {
+      "IATA": "73G",
+      "ICAO": "B737",
+      "Manufacturer/Type": "Boeing 737-700 pax"
+    },
+    {
+      "IATA": "73H",
+      "ICAO": "B738",
+      "Manufacturer/Type": "Boeing 737-800 (winglets) pax"
+    },
+    {
+      "IATA": "73J",
+      "ICAO": "B739",
+      "Manufacturer/Type": "Boeing 737-900 (winglets) pax"
+    },
+    {
+      "IATA": "73L",
+      "ICAO": "B732",
+      "Manufacturer/Type": "Boeing 737-200 Combi"
+    },
+    { "IATA": "73M", "ICAO": "n/a", "Manufacturer/Type": "Boeing 737 Combi" },
+    {
+      "IATA": "73P",
+      "ICAO": "B734",
+      "Manufacturer/Type": "Boeing 737-400 Freighter"
+    },
+    {
+      "IATA": "73Q",
+      "ICAO": "B734",
+      "Manufacturer/Type": "Boeing 737-400 Combi"
+    },
+    {
+      "IATA": "73R",
+      "ICAO": "B737",
+      "Manufacturer/Type": "Boeing 737-700 Combi"
+    },
+    {
+      "IATA": "73W",
+      "ICAO": "B737",
+      "Manufacturer/Type": "Boeing 737-700 (winglets) pax"
+    },
+    {
+      "IATA": "73X",
+      "ICAO": "B732",
+      "Manufacturer/Type": "Boeing 737-200 Freighter"
+    },
+    {
+      "IATA": "73Y",
+      "ICAO": "B733",
+      "Manufacturer/Type": "Boeing 737-300 Freighter"
+    },
+    {
+      "IATA": "741",
+      "ICAO": "B741",
+      "Manufacturer/Type": "Boeing 747-100 pax"
+    },
+    {
+      "IATA": "742",
+      "ICAO": "B742",
+      "Manufacturer/Type": "Boeing 747-200 pax"
+    },
+    {
+      "IATA": "743",
+      "ICAO": "B743",
+      "Manufacturer/Type": "Boeing 747-300 pax"
+    },
+    {
+      "IATA": "744",
+      "ICAO": "B744",
+      "Manufacturer/Type": "Boeing 747-400 pax"
+    },
+    {
+      "IATA": "747",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 747 all pax models"
+    },
+    { "IATA": "748", "ICAO": "B748", "Manufacturer/Type": "Boeing 747-8 pax" },
+    {
+      "IATA": "74B",
+      "ICAO": "B744",
+      "Manufacturer/Type": "Boeing 747-400 Swingtail Freighter"
+    },
+    {
+      "IATA": "74C",
+      "ICAO": "B742",
+      "Manufacturer/Type": "Boeing 747-200 Combi"
+    },
+    {
+      "IATA": "74D",
+      "ICAO": "B743",
+      "Manufacturer/Type": "Boeing 747-300 Combi"
+    },
+    {
+      "IATA": "74E",
+      "ICAO": "B744",
+      "Manufacturer/Type": "Boeing 747-400 Combi"
+    },
+    {
+      "IATA": "74F",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 747 all Freighter models"
+    },
+    {
+      "IATA": "74J",
+      "ICAO": "B744",
+      "Manufacturer/Type": "Boeing 747-400 (Domestic) pax"
+    },
+    { "IATA": "74L", "ICAO": "N74S", "Manufacturer/Type": "Boeing 747SP" },
+    {
+      "IATA": "74M",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 747 all Combi models"
+    },
+    { "IATA": "74R", "ICAO": "B74R", "Manufacturer/Type": "Boeing 747SR pax" },
+    {
+      "IATA": "74T",
+      "ICAO": "B741",
+      "Manufacturer/Type": "Boeing 747-100 Freighter"
+    },
+    {
+      "IATA": "74U",
+      "ICAO": "B743",
+      "Manufacturer/Type": "Boeing 747-300 / 747-200 SUD    Freighter"
+    },
+    {
+      "IATA": "74V",
+      "ICAO": "B74R",
+      "Manufacturer/Type": "Boeing 747SR Freighter"
+    },
+    {
+      "IATA": "74X",
+      "ICAO": "B742",
+      "Manufacturer/Type": "Boeing 747-200 Freighter"
+    },
+    {
+      "IATA": "74Y",
+      "ICAO": "B744",
+      "Manufacturer/Type": "Boeing 747-400 Freighter"
+    },
+    {
+      "IATA": "752",
+      "ICAO": "B752",
+      "Manufacturer/Type": "Boeing 757-200 pax"
+    },
+    {
+      "IATA": "753",
+      "ICAO": "B753",
+      "Manufacturer/Type": "Boeing 757-300 pax"
+    },
+    {
+      "IATA": "757",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 757 all pax models"
+    },
+    {
+      "IATA": "75F",
+      "ICAO": "B752",
+      "Manufacturer/Type": "Boeing 757 Freighter"
+    },
+    {
+      "IATA": "75M",
+      "ICAO": "B752",
+      "Manufacturer/Type": "Boeing 757 Mixed Configuration"
+    },
+    {
+      "IATA": "75W",
+      "ICAO": "B752",
+      "Manufacturer/Type": "Boeing 757-200 (winglets) pax"
+    },
+    {
+      "IATA": "762",
+      "ICAO": "B762",
+      "Manufacturer/Type": "Boeing 767-200 pax"
+    },
+    {
+      "IATA": "763",
+      "ICAO": "B763",
+      "Manufacturer/Type": "Boeing 767-300 pax"
+    },
+    {
+      "IATA": "764",
+      "ICAO": "B764",
+      "Manufacturer/Type": "Boeing 767-400 pax"
+    },
+    {
+      "IATA": "767",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 767 all pax models"
+    },
+    {
+      "IATA": "76F",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 767 all Freighter models"
+    },
+    {
+      "IATA": "76W",
+      "ICAO": "B763",
+      "Manufacturer/Type": "Boeing 767-300 (winglets) pax"
+    },
+    {
+      "IATA": "76X",
+      "ICAO": "B762",
+      "Manufacturer/Type": "Boeing 767-200 Freighter"
+    },
+    {
+      "IATA": "76Y",
+      "ICAO": "B763",
+      "Manufacturer/Type": "Boeing 767-300 Freighter"
+    },
+    {
+      "IATA": "772",
+      "ICAO": "B772",
+      "Manufacturer/Type": "Boeing 777-200 pax"
+    },
+    {
+      "IATA": "773",
+      "ICAO": "B773",
+      "Manufacturer/Type": "Boeing 777-300 pax"
+    },
+    {
+      "IATA": "777",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 777 all pax models"
+    },
+    {
+      "IATA": "77F",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Boeing 777 Freighter"
+    },
+    {
+      "IATA": "77L",
+      "ICAO": "B772",
+      "Manufacturer/Type": "Boeing 777-200LR pax"
+    },
+    {
+      "IATA": "77W",
+      "ICAO": "B77W",
+      "Manufacturer/Type": "Boeing 777-300ER pax"
+    },
+    {
+      "IATA": "77X",
+      "ICAO": "B77L",
+      "Manufacturer/Type": "Boeing 777-200 Freighter"
+    },
+    { "IATA": "783", "ICAO": "B783", "Manufacturer/Type": "Boeing 787-3 pax" },
+    { "IATA": "788", "ICAO": "B788", "Manufacturer/Type": "Boeing 787-8 pax" },
+    { "IATA": "789", "ICAO": "B789", "Manufacturer/Type": "Boeing 787-9 pax" },
+    {
+      "IATA": "7M7",
+      "ICAO": "B37M",
+      "Manufacturer/Type": "Boeing 737 MAX 7 pax"
+    },
+    {
+      "IATA": "7M8",
+      "ICAO": "B38M",
+      "Manufacturer/Type": "Boeing 737 MAX 8 pax"
+    },
+    {
+      "IATA": "7M9",
+      "ICAO": "B39M",
+      "Manufacturer/Type": "Boeing 737 MAX 9 pax"
+    },
+    { "IATA": "A22", "ICAO": "AN22", "Manufacturer/Type": "Antonov AN-22" },
+    { "IATA": "A26", "ICAO": "AN26", "Manufacturer/Type": "Antonov AN-26" },
+    {
+      "IATA": "A28",
+      "ICAO": "AN28",
+      "Manufacturer/Type": "Antonov AN-28 / PZL Miele M-28 Skytruck"
+    },
+    { "IATA": "A30", "ICAO": "AN30", "Manufacturer/Type": "Antonov AN-30" },
+    { "IATA": "A32", "ICAO": "AN32", "Manufacturer/Type": "Antonov AN-32" },
+    { "IATA": "A38", "ICAO": "AN38", "Manufacturer/Type": "Antonov AN-38" },
+    { "IATA": "A40", "ICAO": "A140", "Manufacturer/Type": "Antonov AN-140" },
+    {
+      "IATA": "A4F",
+      "ICAO": "A124",
+      "Manufacturer/Type": "Antonov AN-124 Ruslan"
+    },
+    { "IATA": "A5F", "ICAO": "A225", "Manufacturer/Type": "Antonov AN-225" },
+    {
+      "IATA": "A81",
+      "ICAO": "A148",
+      "Manufacturer/Type": "Antonov AN-148-100"
+    },
+    {
+      "IATA": "AB3",
+      "ICAO": "A30B",
+      "Manufacturer/Type": "Airbus Industrie A300 pax"
+    },
+    {
+      "IATA": "AB4",
+      "ICAO": "A30B",
+      "Manufacturer/Type": "Airbus Industrie A300B2/B4/C4 pax"
+    },
+    {
+      "IATA": "AB6",
+      "ICAO": "A306",
+      "Manufacturer/Type": "Airbus Industrie A300-600 pax"
+    },
+    {
+      "IATA": "ABB",
+      "ICAO": "A3ST",
+      "Manufacturer/Type": "Airbus Industrie A300-600ST Beluga Freighter"
+    },
+    {
+      "IATA": "ABF",
+      "ICAO": "A30B",
+      "Manufacturer/Type": "Airbus Industrie A300 Freighter"
+    },
+    {
+      "IATA": "ABX",
+      "ICAO": "A30B",
+      "Manufacturer/Type": "Airbus Industrie A300C4/F4 Freighter"
+    },
+    {
+      "IATA": "ABY",
+      "ICAO": "A306",
+      "Manufacturer/Type": "Airbus Industrie A600-600 Freighter"
+    },
+    {
+      "IATA": "ACD",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Gulfstream/Rockwell (Aero) Commander/Turbo Commander"
+    },
+    {
+      "IATA": "ACP",
+      "ICAO": "AC68",
+      "Manufacturer/Type": "Gulfstream/Rockwell (Aero) Commander"
+    },
+    {
+      "IATA": "ACT",
+      "ICAO": "AC90",
+      "Manufacturer/Type": "Gulfstream/Rockwell (Aero) Turbo Commander"
+    },
+    { "IATA": "AGH", "ICAO": "A109", "Manufacturer/Type": "Agusta A109" },
+    {
+      "IATA": "ALM",
+      "ICAO": "LOAD",
+      "Manufacturer/Type": "Ayres LM-200 Loadmaster"
+    },
+    { "IATA": "AN4", "ICAO": "AN24", "Manufacturer/Type": "Antonov AN-24" },
+    {
+      "IATA": "AN6",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Antonov AN-26 / AN-30 /AN-32"
+    },
+    {
+      "IATA": "AN7",
+      "ICAO": "AN72",
+      "Manufacturer/Type": "Antonov AN-72 / AN-74"
+    },
+    { "IATA": "ANF", "ICAO": "AN12", "Manufacturer/Type": "Antonov AN-12" },
+    {
+      "IATA": "APH",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Eurocopter (Aerospatiale) SA330 Puma / AS332 Super Puma"
+    },
+    {
+      "IATA": "AR1",
+      "ICAO": "RJ1H",
+      "Manufacturer/Type": "Avro RJ100 Avroliner"
+    },
+    {
+      "IATA": "AR7",
+      "ICAO": "RJ70",
+      "Manufacturer/Type": "Avro RJ70 Avroliner"
+    },
+    {
+      "IATA": "AR8",
+      "ICAO": "RJ85",
+      "Manufacturer/Type": "Avro RJ85 Avroliner"
+    },
+    {
+      "IATA": "ARJ",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Avro RJ70 / RJ85 / RJ100 Avroliner"
+    },
+    {
+      "IATA": "ARX",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Avro RJX85 / RJX100"
+    },
+    {
+      "IATA": "AT4",
+      "ICAO": "AT43",
+      "Manufacturer/Type": "Aerospatiale/Alenia ATR 42-300 / 320"
+    },
+    {
+      "IATA": "AT5",
+      "ICAO": "AT45",
+      "Manufacturer/Type": "Aerospatiale/Alenia ATR 42-500"
+    },
+    {
+      "IATA": "AT7",
+      "ICAO": "AT72",
+      "Manufacturer/Type": "Aerospatiale/Alenia ATR 72"
+    },
+    {
+      "IATA": "ATD",
+      "ICAO": "AT44",
+      "Manufacturer/Type": "Aerospatiale/Alenia ATR 42-400"
+    },
+    {
+      "IATA": "ATF",
+      "ICAO": "AT72",
+      "Manufacturer/Type": "Aerospatiale/Alenia ATR 72 Freighter"
+    },
+    {
+      "IATA": "ATP",
+      "ICAO": "ATP",
+      "Manufacturer/Type": "British Aerospace ATP"
+    },
+    {
+      "IATA": "ATR",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Aerospatiale/Alenia ATR 42/ ATR 72"
+    },
+    { "IATA": "AX1", "ICAO": "RX1H", "Manufacturer/Type": "Avro RJX100" },
+    { "IATA": "AX8", "ICAO": "RX85", "Manufacturer/Type": "Avro RJX85" },
+    {
+      "IATA": "B11",
+      "ICAO": "BA11",
+      "Manufacturer/Type": "British Aerospace (BAC) One Eleven / RomBAC One Eleven"
+    },
+    {
+      "IATA": "B12",
+      "ICAO": "BA11",
+      "Manufacturer/Type": "British Aerospace (BAC) One Eleven 200"
+    },
+    {
+      "IATA": "B13",
+      "ICAO": "BA11",
+      "Manufacturer/Type": "British Aerospace (BAC) One Eleven 300"
+    },
+    {
+      "IATA": "B14",
+      "ICAO": "BA11",
+      "Manufacturer/Type": "British Aerospace (BAC) One Eleven 400/475"
+    },
+    {
+      "IATA": "B15",
+      "ICAO": "BA11",
+      "Manufacturer/Type": "British Aerospace (BAC) One Eleven 500 / RomBAC One Eleven"
+    },
+    { "IATA": "B72", "ICAO": "B720", "Manufacturer/Type": "Boeing 720B pax" },
+    {
+      "IATA": "BE1",
+      "ICAO": "B190",
+      "Manufacturer/Type": "Beechcraft 1900/1900C/1900D"
+    },
+    {
+      "IATA": "BE2",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Beechcraft twin piston engines"
+    },
+    {
+      "IATA": "BEC",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Beechcraft light aircraft"
+    },
+    { "IATA": "BEH", "ICAO": "B190", "Manufacturer/Type": "Beechcraft 1900D" },
+    {
+      "IATA": "BEP",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Beechcraft light aircraft - single engine"
+    },
+    {
+      "IATA": "BES",
+      "ICAO": "B190",
+      "Manufacturer/Type": "Beechcfrat 1900/1900C"
+    },
+    {
+      "IATA": "BET",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Beechcraft light aircraft - twin turboprop engine"
+    },
+    { "IATA": "BH2", "ICAO": "n/a", "Manufacturer/Type": "Bell Helicopters" },
+    {
+      "IATA": "BNI",
+      "ICAO": "BN2P",
+      "Manufacturer/Type": "Pilatus Britten-Norman BN-2A/B Islander"
+    },
+    {
+      "IATA": "BNT",
+      "ICAO": "TRIS",
+      "Manufacturer/Type": "Pilatus Britten-Norman BN-2A Mk III Trislander"
+    },
+    { "IATA": "BUS", "ICAO": "n/a", "Manufacturer/Type": "Bus" },
+    {
+      "IATA": "CCJ",
+      "ICAO": "CL60",
+      "Manufacturer/Type": "Canadair Challenger"
+    },
+    {
+      "IATA": "CCX",
+      "ICAO": "GLEX",
+      "Manufacturer/Type": "Canadair Global Express"
+    },
+    {
+      "IATA": "CD2",
+      "ICAO": "NOMA",
+      "Manufacturer/Type": "Government Aircraft Factories N22B / N24A Nomad"
+    },
+    { "IATA": "CL4", "ICAO": "CL44", "Manufacturer/Type": "Canadair CL-44" },
+    {
+      "IATA": "CN1",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Cessna light aircraft - single piston engine"
+    },
+    {
+      "IATA": "CN2",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Cessna light aircraft - twin piston engines"
+    },
+    {
+      "IATA": "CN7",
+      "ICAO": "C750",
+      "Manufacturer/Type": "Cessna 750 Citation X"
+    },
+    {
+      "IATA": "CNA",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Cessna light aircraft"
+    },
+    {
+      "IATA": "CNC",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Cessna light aircraft - single turboprop engine"
+    },
+    { "IATA": "CNJ", "ICAO": "n/a", "Manufacturer/Type": "Cessna Citation" },
+    {
+      "IATA": "CNT",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Cessna light aircraft - twin turboprop engines"
+    },
+    {
+      "IATA": "CR1",
+      "ICAO": "CRJ1",
+      "Manufacturer/Type": "Canadair Regional Jet 100"
+    },
+    {
+      "IATA": "CR2",
+      "ICAO": "CRJ2",
+      "Manufacturer/Type": "Canadair Regional Jet 200"
+    },
+    {
+      "IATA": "CR7",
+      "ICAO": "CRJ7",
+      "Manufacturer/Type": "Canadair Regional Jet 700"
+    },
+    {
+      "IATA": "CR9",
+      "ICAO": "CRJ9",
+      "Manufacturer/Type": "Canadair Regional Jet 900"
+    },
+    {
+      "IATA": "CRA",
+      "ICAO": "CRJ9",
+      "Manufacturer/Type": "Canadair Regional Jet 705"
+    },
+    {
+      "IATA": "CRF",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Canadair Regional Jet Freighter"
+    },
+    {
+      "IATA": "CRJ",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Canadair Regional Jet"
+    },
+    {
+      "IATA": "CRK",
+      "ICAO": "CRJX",
+      "Manufacturer/Type": "Canadair Regional Jet 1000 "
+    },
+    {},
+    {},
+    {
+      "IATA": "CS2",
+      "ICAO": "C212",
+      "Manufacturer/Type": "CASA / IPTN 212 Aviocar"
+    },
+    {
+      "IATA": "CS5",
+      "ICAO": "CN35",
+      "Manufacturer/Type": "CASA / IPTN CN-235"
+    },
+    {
+      "IATA": "CV2",
+      "ICAO": "CVLP",
+      "Manufacturer/Type": "Convair CV-240 pax"
+    },
+    {
+      "IATA": "CV4",
+      "ICAO": "CVLP",
+      "Manufacturer/Type": "Convair CV-440 Metropolitan pax"
+    },
+    {
+      "IATA": "CV5",
+      "ICAO": "CVLT",
+      "Manufacturer/Type": "Convair CV-580 pax"
+    },
+    {
+      "IATA": "CVF",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Convair CV-240 / 440 / 580 / 600 / 640 Freighter"
+    },
+    {
+      "IATA": "CVR",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Convair CV-240 / 440 / 580 / 600 / 640 pax"
+    },
+    {
+      "IATA": "CVV",
+      "ICAO": "CVLP",
+      "Manufacturer/Type": "Convair CV-240 Freighter"
+    },
+    {
+      "IATA": "CVX",
+      "ICAO": "CVLP",
+      "Manufacturer/Type": "Convair CV-440 Freighter"
+    },
+    {
+      "IATA": "CVY",
+      "ICAO": "CVLT",
+      "Manufacturer/Type": "Convair CV-580 / 600 / 640 Freighter"
+    },
+    {
+      "IATA": "CWC",
+      "ICAO": "C46",
+      "Manufacturer/Type": "Curtiss C-46 Commando"
+    },
+    { "IATA": "D10", "ICAO": "DC10", "Manufacturer/Type": "Douglas DC-10 pax" },
+    {
+      "IATA": "D11",
+      "ICAO": "DC10",
+      "Manufacturer/Type": "Douglas DC-10-10/15 pax"
+    },
+    {
+      "IATA": "D1C",
+      "ICAO": "DC10",
+      "Manufacturer/Type": "Douglas DC-10-30/40 pax"
+    },
+    {
+      "IATA": "D1F",
+      "ICAO": "DC10",
+      "Manufacturer/Type": "Douglas DC-10 all Freighters"
+    },
+    {
+      "IATA": "D1M",
+      "ICAO": "DC10",
+      "Manufacturer/Type": "Douglas DC-10 all Combi models"
+    },
+    {
+      "IATA": "D1X",
+      "ICAO": "DC10",
+      "Manufacturer/Type": "Douglas DC-10-10 Freighter"
+    },
+    {
+      "IATA": "D1Y",
+      "ICAO": "DC10",
+      "Manufacturer/Type": "Douglas DC-10-30 / 40 Freighters"
+    },
+    {
+      "IATA": "D28",
+      "ICAO": "D228",
+      "Manufacturer/Type": "Fairchild Dornier Do.228"
+    },
+    {
+      "IATA": "D38",
+      "ICAO": "D328",
+      "Manufacturer/Type": "Fairchild Dornier Do.328"
+    },
+    {
+      "IATA": "D3F",
+      "ICAO": "DC3",
+      "Manufacturer/Type": "Douglas DC-3 Freighter"
+    },
+    {
+      "IATA": "D6F",
+      "ICAO": "DC6",
+      "Manufacturer/Type": "Douglas DC-6A/B/C Freighter"
+    },
+    {
+      "IATA": "D8F",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Douglas DC-8 all Freighters"
+    },
+    {
+      "IATA": "D8L",
+      "ICAO": "DC86",
+      "Manufacturer/Type": "Douglas DC-8-62 pax"
+    },
+    {
+      "IATA": "D8M",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Douglas DC-8 all Combi models"
+    },
+    {
+      "IATA": "D8Q",
+      "ICAO": "DC87",
+      "Manufacturer/Type": "Douglas DC-8-72 pax"
+    },
+    {
+      "IATA": "D8T",
+      "ICAO": "DC85",
+      "Manufacturer/Type": "Douglas DC-8-50 Freighter"
+    },
+    {
+      "IATA": "D8X",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Douglas DC-8-61 / 62 / 63 Freighters"
+    },
+    {
+      "IATA": "D8Y",
+      "ICAO": "DC87",
+      "Manufacturer/Type": "Douglas DC-8-71 / 72 / 73 Freighters"
+    },
+    {
+      "IATA": "D91",
+      "ICAO": "DC91",
+      "Manufacturer/Type": "Douglas DC-9-10 pax"
+    },
+    {
+      "IATA": "D92",
+      "ICAO": "DC92",
+      "Manufacturer/Type": "Douglas DC-9-20 pax"
+    },
+    {
+      "IATA": "D93",
+      "ICAO": "DC93",
+      "Manufacturer/Type": "Douglas DC-9-30 pax"
+    },
+    {
+      "IATA": "D94",
+      "ICAO": "DC94",
+      "Manufacturer/Type": "Douglas DC-9-40 pax"
+    },
+    {
+      "IATA": "D95",
+      "ICAO": "DC95",
+      "Manufacturer/Type": "Douglas DC-9-50 pax"
+    },
+    {
+      "IATA": "D9C",
+      "ICAO": "DC93",
+      "Manufacturer/Type": "Douglas DC-9-30 Freighter"
+    },
+    {
+      "IATA": "D9D",
+      "ICAO": "DC94",
+      "Manufacturer/Type": "Douglas DC-9-40 Freighter"
+    },
+    {
+      "IATA": "D9F",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Douglas DC-9 all Freighters"
+    },
+    {
+      "IATA": "D9X",
+      "ICAO": "DC91",
+      "Manufacturer/Type": "Douglas DC-9-10 Freighter"
+    },
+    { "IATA": "DC3", "ICAO": "DC3", "Manufacturer/Type": "Douglas DC-3 pax" },
+    { "IATA": "DC4", "ICAO": "DC4", "Manufacturer/Type": "Douglas DC-4 pax" },
+    { "IATA": "DC6", "ICAO": "DC6", "Manufacturer/Type": "Douglas DC6A/B pax" },
+    {
+      "IATA": "DC8",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Douglas DC-8 all pax models"
+    },
+    {
+      "IATA": "DC9",
+      "ICAO": "DC9",
+      "Manufacturer/Type": "Douglas DC-9 all pax models"
+    },
+    {
+      "IATA": "DF2",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Dassault (Breguet Mystere) Falcon 10 / 100 / 20 / 200 / 2000"
+    },
+    {
+      "IATA": "DF3",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Dassault (Breguet Mystere) Falcon 50 / 900"
+    },
+    {
+      "IATA": "DFL",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Dassault (Breguet Mystere) Falcon"
+    },
+    {
+      "IATA": "DH1",
+      "ICAO": "DH8A",
+      "Manufacturer/Type": "De Havilland Canada DHC-8-100 Dash 8 / 8Q"
+    },
+    {
+      "IATA": "DH2",
+      "ICAO": "DH8B",
+      "Manufacturer/Type": "De Havilland Canada DHC-8-200 Dash 8 / 8Q"
+    },
+    {
+      "IATA": "DH3",
+      "ICAO": "DH8C",
+      "Manufacturer/Type": "De Havilland Canada DHC-8-300 Dash 8 / 8Q"
+    },
+    {
+      "IATA": "DH4",
+      "ICAO": "DH8D",
+      "Manufacturer/Type": "De Havilland Canada DHC-8-400 Dash 8Q"
+    },
+    {
+      "IATA": "DH7",
+      "ICAO": "DHC7",
+      "Manufacturer/Type": "De Havilland Canada DHC-7 Dash 7"
+    },
+    {
+      "IATA": "DH8",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "De Havilland Canada DHC-8 Dash 8 all models"
+    },
+    {
+      "IATA": "DHB",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "De Havilland Canada DHC-2 Beaver / Turbo Beaver"
+    },
+    {
+      "IATA": "DHC",
+      "ICAO": "DHC4",
+      "Manufacturer/Type": "De Havilland Canada DHC-4 Caribou"
+    },
+    {
+      "IATA": "DHD",
+      "ICAO": "DOVE",
+      "Manufacturer/Type": "De Havilland DH.104 Dove"
+    },
+    {
+      "IATA": "DHH",
+      "ICAO": "HERN",
+      "Manufacturer/Type": "De Havilland DH.114 Heron"
+    },
+    {
+      "IATA": "DHL",
+      "ICAO": "DHC3",
+      "Manufacturer/Type": "De Havilland Canada DHC-3 Turbo Otter"
+    },
+    {
+      "IATA": "DHO",
+      "ICAO": "DHC3",
+      "Manufacturer/Type": "De Havilland Canada DHC-3 Otter / Turbo Otter"
+    },
+    {
+      "IATA": "DHP",
+      "ICAO": "DHC2",
+      "Manufacturer/Type": "De Havilland Canada DHC-2 Beaver"
+    },
+    {
+      "IATA": "DHR",
+      "ICAO": "DH2T",
+      "Manufacturer/Type": "De Havilland Canada DHC-2 Turbo-Beaver"
+    },
+    {
+      "IATA": "DHS",
+      "ICAO": "DHC3",
+      "Manufacturer/Type": "De Havilland Canada DHC-3 Otter"
+    },
+    {
+      "IATA": "DHT",
+      "ICAO": "DHC6",
+      "Manufacturer/Type": "De Havilland Canada DHC-6 Twin Otter"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "IATA": "F21",
+      "ICAO": "F28",
+      "Manufacturer/Type": "Fokker F.28 Fellowship 1000"
+    },
+    {
+      "IATA": "F22",
+      "ICAO": "F28",
+      "Manufacturer/Type": "Fokker F.28 Fellowship 2000"
+    },
+    {
+      "IATA": "F23",
+      "ICAO": "F28",
+      "Manufacturer/Type": "Fokker F.28 Fellowship 3000"
+    },
+    {
+      "IATA": "F24",
+      "ICAO": "F28",
+      "Manufacturer/Type": "Fokker F.28 Fellowship 4000"
+    },
+    {
+      "IATA": "F27",
+      "ICAO": "F27",
+      "Manufacturer/Type": "Fokker F.27 Friendship / Fairchild F.27"
+    },
+    {
+      "IATA": "F28",
+      "ICAO": "F28",
+      "Manufacturer/Type": "Fokker F.28 Fellowship"
+    },
+    { "IATA": "F50", "ICAO": "F50", "Manufacturer/Type": "Fokker 50" },
+    {
+      "IATA": "F5F",
+      "ICAO": "F50",
+      "Manufacturer/Type": "Fokker 50 Freighter"
+    },
+    { "IATA": "F70", "ICAO": "F70", "Manufacturer/Type": "Fokker 70" },
+    {
+      "IATA": "FA7",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Fairchild Dornier 728JET"
+    },
+    { "IATA": "FK7", "ICAO": "F27", "Manufacturer/Type": "Fairchild FH.227" },
+    {
+      "IATA": "FRJ",
+      "ICAO": "J328",
+      "Manufacturer/Type": "Fairchild Dornier 328JET"
+    },
+    { "IATA": "GRG", "ICAO": "G21", "Manufacturer/Type": "Grumman G.21 Goose" },
+    {
+      "IATA": "GRJ",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Gulfstream Aerospace G-1159 Gulfstream  II / III / IV / V"
+    },
+    {
+      "IATA": "GRM",
+      "ICAO": "G73T",
+      "Manufacturer/Type": "Grumman G.73 Turbo Mallard"
+    },
+    {
+      "IATA": "GRS",
+      "ICAO": "G159",
+      "Manufacturer/Type": "Gulfstream Aerospace G-159 Gulfstream I"
+    },
+    {
+      "IATA": "H25",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "British Aerospace (Hawker Siddeley) HS.125"
+    },
+    {
+      "IATA": "HEC",
+      "ICAO": "COUC",
+      "Manufacturer/Type": "Helio H-250 Courier / H-295 / 385 Super Courier"
+    },
+    { "IATA": "HOV", "ICAO": "n/a", "Manufacturer/Type": "Hovercraft" },
+    {
+      "IATA": "HS7",
+      "ICAO": "A748",
+      "Manufacturer/Type": "Hawker Siddeley HS.748"
+    },
+    { "IATA": "I14", "ICAO": "I114", "Manufacturer/Type": "Ilyushin IL114" },
+    {
+      "IATA": "I93",
+      "ICAO": "IL96",
+      "Manufacturer/Type": "Ilyushin IL96-300 pax"
+    },
+    {
+      "IATA": "I9F",
+      "ICAO": "IL96",
+      "Manufacturer/Type": "Ilyushin IL96 Freighters"
+    },
+    {
+      "IATA": "I9M",
+      "ICAO": "IL96",
+      "Manufacturer/Type": "Ilyushin IL96M pax"
+    },
+    {
+      "IATA": "I9X",
+      "ICAO": "IL96",
+      "Manufacturer/Type": "Ilyushin IL96-300 Freighter"
+    },
+    {
+      "IATA": "I9Y",
+      "ICAO": "IL96",
+      "Manufacturer/Type": "Ilyushin IL96T Freighter"
+    },
+    { "IATA": "IL6", "ICAO": "IL62", "Manufacturer/Type": "Ilyushin IL62" },
+    { "IATA": "IL7", "ICAO": "IL76", "Manufacturer/Type": "Ilyushin IL76" },
+    { "IATA": "IL8", "ICAO": "IL18", "Manufacturer/Type": "Ilyushin IL18" },
+    { "IATA": "IL9", "ICAO": "IL96", "Manufacturer/Type": "Ilyushin IL96 pax" },
+    { "IATA": "ILW", "ICAO": "IL86", "Manufacturer/Type": "Ilyushin IL86" },
+    {
+      "IATA": "J31",
+      "ICAO": "JS31",
+      "Manufacturer/Type": "British Aerospace Jetstream 31"
+    },
+    {
+      "IATA": "J32",
+      "ICAO": "JS32",
+      "Manufacturer/Type": "British Aerospace Jetstream 32"
+    },
+    {
+      "IATA": "J41",
+      "ICAO": "JS41",
+      "Manufacturer/Type": "British Aerospace Jetstream 41"
+    },
+    {
+      "IATA": "JST",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "British Aerospace Jetstream 31 / 32 / 41"
+    },
+    { "IATA": "JU5", "ICAO": "JU52", "Manufacturer/Type": "Junkers Ju52/3M" },
+    {
+      "IATA": "L10",
+      "ICAO": "L101",
+      "Manufacturer/Type": "Lockheed L-1011 Tristar pax"
+    },
+    {
+      "IATA": "L11",
+      "ICAO": "L101",
+      "Manufacturer/Type": "Lockheed L-1011 1 / 50 / 100 / 150 / 200 / 250 Tristar pax"
+    },
+    {
+      "IATA": "L15",
+      "ICAO": "L101",
+      "Manufacturer/Type": "Lockheed L-1011 500 Tristar pax"
+    },
+    {
+      "IATA": "L1F",
+      "ICAO": "L101",
+      "Manufacturer/Type": "Lockheed L-1011 Tristar Freighter"
+    },
+    {
+      "IATA": "L49",
+      "ICAO": "CONI",
+      "Manufacturer/Type": "Lockheed L-1049 Super Constellation"
+    },
+    { "IATA": "L4T", "ICAO": "L410", "Manufacturer/Type": "LET 410" },
+    { "IATA": "LCH", "ICAO": "n/a", "Manufacturer/Type": "Launch - Boat" },
+    { "IATA": "LMO", "ICAO": "n/a", "Manufacturer/Type": "Limousine" },
+    {
+      "IATA": "LOE",
+      "ICAO": "L188",
+      "Manufacturer/Type": "Lockheed L-188 Electra pax"
+    },
+    {
+      "IATA": "LOF",
+      "ICAO": "L188",
+      "Manufacturer/Type": "Lockheed L-188 Electra Freighter"
+    },
+    {
+      "IATA": "LOH",
+      "ICAO": "C130",
+      "Manufacturer/Type": "Lockheed L-182 / 282 / 382 (L-100) Hercules"
+    },
+    {
+      "IATA": "LOM",
+      "ICAO": "L188",
+      "Manufacturer/Type": "Lockheed L-188 Electra Mixed Configuration"
+    },
+    { "IATA": "LRJ", "ICAO": "n/a", "Manufacturer/Type": "Gates Learjet" },
+    {
+      "IATA": "M11",
+      "ICAO": "MD11",
+      "Manufacturer/Type": "McDonnell Douglas MD11 pax"
+    },
+    {
+      "IATA": "M1F",
+      "ICAO": "MD11",
+      "Manufacturer/Type": "McDonnell Douglas MD11 Freighter"
+    },
+    {
+      "IATA": "M1M",
+      "ICAO": "MD11",
+      "Manufacturer/Type": "McDonnell Douglas MD11 Mixed Configuration"
+    },
+    {
+      "IATA": "M80",
+      "ICAO": "MD80",
+      "Manufacturer/Type": "McDonnell Douglas MD80"
+    },
+    {
+      "IATA": "M81",
+      "ICAO": "MD81",
+      "Manufacturer/Type": "McDonnell Douglas MD81"
+    },
+    {
+      "IATA": "M82",
+      "ICAO": "MD82",
+      "Manufacturer/Type": "McDonnell Douglas MD82"
+    },
+    {
+      "IATA": "M83",
+      "ICAO": "MD83",
+      "Manufacturer/Type": "McDonnell Douglas MD83"
+    },
+    {
+      "IATA": "M87",
+      "ICAO": "MD87",
+      "Manufacturer/Type": "McDonnell Douglas MD87"
+    },
+    {
+      "IATA": "M88",
+      "ICAO": "MD88",
+      "Manufacturer/Type": "McDonnell Douglas MD88"
+    },
+    {
+      "IATA": "M90",
+      "ICAO": "MD90",
+      "Manufacturer/Type": "McDonnell Douglas MD90"
+    },
+    {
+      "IATA": "MBH",
+      "ICAO": "B105",
+      "Manufacturer/Type": "Eurocopter (MBB) Bo.105"
+    },
+    {
+      "IATA": "MD9",
+      "ICAO": "EXPL",
+      "Manufacturer/Type": "MD Helicopters MD900 Explorer"
+    },
+    {
+      "IATA": "MIH",
+      "ICAO": "MI8",
+      "Manufacturer/Type": "MIL Mi-8 / Mi-17 / Mi-171 / Mil-172"
+    },
+    { "IATA": "MU2", "ICAO": "MU2", "Manufacturer/Type": "Mitsubishi Mu-2" },
+    {
+      "IATA": "ND2",
+      "ICAO": "N262",
+      "Manufacturer/Type": "Aerospatiale (Nord) 262"
+    },
+    {
+      "IATA": "NDC",
+      "ICAO": "S601",
+      "Manufacturer/Type": "Aerospatiale SN.601 Corvette"
+    },
+    {
+      "IATA": "NDE",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Eurocopter (Aerospatiale) AS350 Ecureuil / AS355 Ecureuil 2"
+    },
+    {
+      "IATA": "NDH",
+      "ICAO": "S65C",
+      "Manufacturer/Type": "Eurocopter (Aerospatiale) SA365C / SA365N Dauphin 2"
+    },
+    {
+      "IATA": "PA1",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Piper light aircraft - single piston engine"
+    },
+    {
+      "IATA": "PA2",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Piper light aircraft - twin piston engines"
+    },
+    {
+      "IATA": "PAG",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Piper light aircraft"
+    },
+    {
+      "IATA": "PAT",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Piper light aircraft - twin turboprop engines"
+    },
+    { "IATA": "PL2", "ICAO": "PC12", "Manufacturer/Type": "Pilatus PC-12" },
+    {
+      "IATA": "PL6",
+      "ICAO": "PC6T",
+      "Manufacturer/Type": "Pilatus PC-6 Turbo Porter"
+    },
+    { "IATA": "PN6", "ICAO": "P68", "Manufacturer/Type": "Partenavia P.68" },
+    {
+      "IATA": "RFS",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Road Feeder Service - Cargo Truck"
+    },
+    { "IATA": "S20", "ICAO": "SB20", "Manufacturer/Type": "Saab 2000" },
+    { "IATA": "S58", "ICAO": "S58T", "Manufacturer/Type": "Sikorsky S-58T" },
+    { "IATA": "S61", "ICAO": "S61", "Manufacturer/Type": "Sikorsky S-61" },
+    { "IATA": "S76", "ICAO": "S76", "Manufacturer/Type": "Sikorsky S-76" },
+    { "IATA": "SF3", "ICAO": "SF34", "Manufacturer/Type": "Saab SF340" },
+    { "IATA": "SFB", "ICAO": "SF34", "Manufacturer/Type": "Saab SF340B" },
+    {
+      "IATA": "SFF",
+      "ICAO": "SF34",
+      "Manufacturer/Type": "Saab SF340 Freighter"
+    },
+    { "IATA": "SH3", "ICAO": "SH33", "Manufacturer/Type": "Shorts SD.330" },
+    { "IATA": "SH6", "ICAO": "SH36", "Manufacturer/Type": "Shorts SD.360" },
+    {
+      "IATA": "SHB",
+      "ICAO": "BELF",
+      "Manufacturer/Type": "Shorts SC-5 Belfast"
+    },
+    { "IATA": "SHS", "ICAO": "SC7", "Manufacturer/Type": "Shorts SC-7 Skyvan" },
+    {
+      "IATA": "SSC",
+      "ICAO": "CONC",
+      "Manufacturer/Type": "Aerospatiale/BAC Concorde"
+    },
+    { "IATA": "SU1", "ICAO": "", "Manufacturer/Type": "Sukhoi Superjet 100" },
+    {
+      "IATA": "SU7",
+      "ICAO": "",
+      "Manufacturer/Type": "Sukhoi Superjet 100-75"
+    },
+    {
+      "IATA": "SU9",
+      "ICAO": "SU95",
+      "Manufacturer/Type": "Sukhoi Superjet 100-95"
+    },
+    {
+      "IATA": "SWM",
+      "ICAO": "n/a",
+      "Manufacturer/Type": "Fairchild (Swearingen) SA26 / SA226 / SA227 Metro / Merlin / Expediter"
+    },
+    {
+      "IATA": "T20",
+      "ICAO": "T204",
+      "Manufacturer/Type": "Tupolev Tu-204 / Tu-214"
+    },
+    {
+      "IATA": "T2F",
+      "ICAO": "T204",
+      "Manufacturer/Type": "Tupolev Tu-204 Freighter"
+    },
+    { "IATA": "TRN", "ICAO": "n/a", "Manufacturer/Type": "Train" },
+    { "IATA": "TU3", "ICAO": "T134", "Manufacturer/Type": "Tupolev Tu134" },
+    { "IATA": "TU5", "ICAO": "T154", "Manufacturer/Type": "Tupolev Tu154" },
+    { "IATA": "VCV", "ICAO": "VISC", "Manufacturer/Type": "Vickers Viscount" },
+    {
+      "IATA": "WWP",
+      "ICAO": "WW24",
+      "Manufacturer/Type": "Israel Aircraft Industries 1124 Westwind"
+    },
+    { "IATA": "YK2", "ICAO": "YK42", "Manufacturer/Type": "Yakovlev Yak 42" },
+    { "IATA": "YK4", "ICAO": "YK40", "Manufacturer/Type": "Yakovlev Yak 40" },
+    {
+      "IATA": "YN2",
+      "ICAO": "Y12",
+      "Manufacturer/Type": "Harbin Yunshuji Y12"
+    },
+    { "IATA": "YN7", "ICAO": "AN24", "Manufacturer/Type": "Xian Yunshuji Y7" },
+    { "IATA": "YS1", "ICAO": "YS11", "Manufacturer/Type": "NAMC YS-11" }
+  ]
+}
